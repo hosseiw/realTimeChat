@@ -2,13 +2,21 @@
 
 ## build with react js and express with socket.io
 
-# Start
-* Start With npm
-## install packages
+# using npm
+* install packages
 ```
 npm i
 ```
-## run the application
+* run the application
 ```
 npm run dev
+```
+# using yarn
+* install packages
+```
+yarn
+```
+* run the application
+```
+yarn dev
 ```
